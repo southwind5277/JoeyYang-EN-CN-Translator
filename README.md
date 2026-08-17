@@ -43,5 +43,4 @@ https://f95zone.to/threads/translation-service-english-chinese-translation-offer
 ## 📬 Contact
 
 * **Discord:** `joeyyangtranslator`
-* **Email:** `joeyyang1991@163.com`
 * **X:** https://x.com/JoeyYangTrans
