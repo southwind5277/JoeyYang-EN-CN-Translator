@@ -1,30 +1,47 @@
-# JoeyYang-EN-CN-Translator
-Experienced Chinese game translator, translated 20+ games on Steam.
+# JoeyYang — English ↔ Chinese Game Translator
 
-Here is my detailed translation history(all on Steam):
+Experienced Chinese game translator with **20+ games translated on Steam**.
 
-Shut Up and Dance (VN)
-The Neverwhere Tales (VN)
-Tales From The Unending Void S1 (VN)
-Glowing Stones: Heroes' Awakening (VN)
-My Ex-future Family S1&S2 (VN)
-Sofia's Dark Fantasies (VN)
-Trophies: A Corruption Tale (VN)
-Vae-Victis Khan (VN)
-Isabella: Chasing Shadows (VN, CN not released)
-Milking Mira! (Clicker game)
-Harem In Another World (RPG)
-Cycle of Corruption (RPG)
-Moving To Freeuse World (VN)
-With Eyes Closed S2 (VN)
-Goblin Nest (Building)
-Leaving DNA (VN)
-Gagged Love: My MILF Neighbor (VN)
-Rich & Youn (VN)
-Leap Into Life (VN)
+## 🎮 Translation History
 
-This is the page of the ratings about me from other devs in F95.(The largest‑scale general‑purpose forum for adult‑themed games)
+Here is my detailed translation history — all projects are available on Steam unless otherwise noted:
+
+### Visual Novels (VN)
+
+* **Shut Up and Dance**
+* **The Neverwhere Tales**
+* **Tales From The Unending Void S1**
+* **Glowing Stones: Heroes' Awakening**
+* **My Ex-future Family S1 & S2**
+* **Sofia's Dark Fantasies**
+* **Trophies: A Corruption Tale**
+* **Vae-Victis Khan**
+* **Isabella: Chasing Shadows** *(Chinese localization not released)*
+* **Moving To Freeuse World**
+* **With Eyes Closed S2**
+* **Leaving DNA**
+* **Gagged Love: My MILF Neighbor**
+* **Rich & Youn**
+* **Leap Into Life**
+
+### Other Genres
+
+* **Milking Mira!** — Clicker Game
+* **Harem In Another World** — RPG
+* **Cycle of Corruption** — RPG
+* **Goblin Nest** — Building / Management Game
+
+## ⭐ Reviews
+
+You can find reviews and feedback from developers on my F95Zone translation service thread:
+
+**F95Zone — Translation Service Reviews:**
 https://f95zone.to/threads/translation-service-english-chinese-translation-offer.277637/br-reviews/
 
-Here is my X/Twitter:
-https://x.com/JoeyYangTrans
+> F95Zone is one of the largest general-purpose forums for adult-themed games.
+
+## 📬 Contact
+
+* **Discord:** `joeyyangtranslator`
+* **Email:** `joeyyang1991@163.com`
+* **X:** https://x.com/JoeyYangTrans
