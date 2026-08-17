@@ -1,6 +1,6 @@
 # JoeyYang — English ↔ Chinese Game Translator
 
-Experienced Chinese game translator with **20+ games translated on Steam**.
+Experienced English-to-Chinese game translator with **20+ games translated on Steam**.
 
 ## 🎮 Translation History
 
